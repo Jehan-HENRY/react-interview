@@ -19,3 +19,9 @@ Prenez des initiatives, il y a des points bonus si
 * Il y a une attention aux détails
 
 /!\ La suppression du comportement asynchrone dans `movies.js` entraînera une annulation du test.
+
+
+## Pour lancer le projet
+
+* `npm install` ou `yarn install`
+* `npm start` ou `yarn start`
